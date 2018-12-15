@@ -1,5 +1,5 @@
 body {
-	
+	background-image: url(https://source.unsplash.com/xulIYVIbYIc);
 	background-size: cover;
 	background-position: center;
 	font-family: 'B612', sans-serif;
@@ -38,6 +38,3 @@ hr {
 	border-bottom: 1px solid rgba(0,0,0,0.2);
 }
 
-.container{
-background-image: url(https://source.unsplash.com/xulIYVIbYIc);
-}
